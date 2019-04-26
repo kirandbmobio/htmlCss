@@ -1,0 +1,29 @@
+body {
+    background-color: lightblue;
+    background-image: url("download.jpeg");
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+    background: #ffffff url("download.jpeg") no-repeat fixed right top;
+}
+  
+  
+  h1 {
+    color: navy;
+    margin-left: 20px;
+  }
+  #id{
+    color:navajowhite;
+  }
+  #id{
+    color:green;
+  }
+  #top {
+    background-color: #ccc;
+    padding: 20px
+}
+
+.intro {
+    color: red;
+    font-weight: bold;
+}
